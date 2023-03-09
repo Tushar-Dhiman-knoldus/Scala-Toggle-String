@@ -74,7 +74,7 @@ object ToggleString extends App {
 
 **OUTPUT**
 
-![Screenshot from 2023-03-09 13-20-32](https://user-images.githubusercontent.com/125438911/223955857-ba16d5fc-69e7-4762-8102-f1b9d249d12e.png)
+![Screenshot from 2023-03-09 14-53-13](https://user-images.githubusercontent.com/125438911/223978035-b5171b83-4ee3-4dc7-87f7-d470bd430ce8.png)
 
 
 
