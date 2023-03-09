@@ -25,12 +25,8 @@ class ConvertString {
           result += user_string.charAt(index).toUpper
         }
 
-        else if (user_string.charAt(index).isUpper) {
+        else {
           result += user_string.charAt(index).toLower
-        }
-
-        else if (user_string.charAt(index).isDigit) {
-          return "String contains a numeric value which is not valid !! "
         }
       }
     }
